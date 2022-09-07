@@ -1,0 +1,632 @@
+,Unnamed: 0,date,cases,tests,international_ban,nsw_lockdown,strategy
+0,0,2020-01-25,3.0,7.0,0,0,No Strategy
+1,1,2020-01-26,0.0,7.0,0,0,No Strategy
+2,2,2020-01-27,1.0,9.0,0,0,No Strategy
+3,3,2020-01-28,0.0,25.0,0,0,No Strategy
+4,4,2020-01-29,0.0,20.0,0,0,No Strategy
+5,5,2020-01-30,0.0,28.0,0,0,No Strategy
+6,6,2020-01-31,0.0,17.0,0,0,No Strategy
+7,7,2020-02-01,0.0,13.0,0,0,No Strategy
+8,8,2020-02-02,0.0,26.0,0,0,No Strategy
+9,9,2020-02-03,0.0,67.0,0,0,No Strategy
+10,10,2020-02-04,0.0,49.0,0,0,No Strategy
+11,11,2020-02-05,0.0,53.0,0,0,No Strategy
+12,12,2020-02-06,0.0,54.0,0,0,No Strategy
+13,13,2020-02-07,0.0,58.0,0,0,No Strategy
+14,14,2020-02-08,0.0,35.0,0,0,No Strategy
+15,15,2020-02-09,0.0,26.0,0,0,No Strategy
+16,16,2020-02-10,0.0,73.0,0,0,No Strategy
+17,17,2020-02-11,0.0,66.0,0,0,No Strategy
+18,18,2020-02-12,0.0,64.0,0,0,No Strategy
+19,19,2020-02-13,0.0,71.0,0,0,No Strategy
+20,20,2020-02-14,0.0,67.0,0,0,No Strategy
+21,21,2020-02-15,0.0,38.0,0,0,No Strategy
+22,22,2020-02-16,0.0,33.0,0,0,No Strategy
+23,23,2020-02-17,0.0,95.0,0,0,No Strategy
+24,24,2020-02-18,0.0,103.0,0,0,No Strategy
+25,25,2020-02-19,0.0,92.0,0,0,No Strategy
+26,26,2020-02-20,0.0,87.0,0,0,No Strategy
+27,27,2020-02-21,0.0,97.0,0,0,No Strategy
+28,28,2020-02-22,0.0,44.0,0,0,No Strategy
+29,29,2020-02-23,0.0,36.0,0,0,No Strategy
+30,30,2020-02-24,0.0,127.0,0,0,No Strategy
+31,31,2020-02-25,0.0,121.0,0,0,No Strategy
+32,32,2020-02-26,0.0,135.0,0,0,No Strategy
+33,33,2020-02-27,0.0,144.0,0,0,No Strategy
+34,34,2020-02-28,0.0,147.0,0,0,No Strategy
+35,35,2020-02-29,0.0,87.0,0,0,No Strategy
+36,36,2020-03-01,2.0,90.0,0,0,No Strategy
+37,37,2020-03-02,3.0,238.0,0,0,No Strategy
+38,38,2020-03-03,6.0,252.0,0,0,No Strategy
+39,39,2020-03-04,6.0,272.0,0,0,Practice Good Hygienic Process
+40,40,2020-03-05,4.0,299.0,0,0,Practice Good Hygienic Process
+41,41,2020-03-06,7.0,315.0,0,0,Practice Good Hygienic Process
+42,42,2020-03-07,2.0,210.0,0,0,Practice Good Hygienic Process
+43,43,2020-03-08,7.0,215.0,0,0,Practice Good Hygienic Process
+44,44,2020-03-09,13.0,394.0,0,0,Practice Good Hygienic Process
+45,45,2020-03-10,6.0,403.0,0,0,Practice Good Hygienic Process
+46,46,2020-03-11,16.0,399.0,0,0,Practice Good Hygienic Process
+47,47,2020-03-12,14.0,395.0,0,0,Practice Good Hygienic Process
+48,48,2020-03-13,19.0,432.0,0,0,Practice Good Hygienic Process
+49,49,2020-03-14,20.0,350.0,0,0,Practice Good Hygienic Process
+50,50,2020-03-15,38.0,329.0,0,0,Practice Good Hygienic Process
+51,51,2020-03-16,29.0,478.0,0,0,Practice Good Hygienic Process
+52,52,2020-03-17,64.0,474.0,0,0,Practice Good Hygienic Process
+53,53,2020-03-18,45.0,463.0,0,0,Practice Good Hygienic Process
+54,54,2020-03-19,56.0,448.0,0,0,Encourage Covid testing
+55,55,2020-03-20,88.0,454.0,1,0,Encourage Covid testing
+56,56,2020-03-21,122.0,383.0,1,0,Encourage Covid testing
+57,57,2020-03-22,121.0,370.0,1,0,Encourage Covid testing
+58,58,2020-03-23,177.0,477.0,1,0,Encourage Covid testing
+59,59,2020-03-24,192.0,494.0,1,0,Encourage Covid testing
+60,60,2020-03-25,206.0,483.0,1,0,Encourage Covid testing
+61,61,2020-03-26,185.0,490.0,1,0,Encourage Covid testing
+62,62,2020-03-27,213.0,468.0,1,0,Encourage Covid testing
+63,63,2020-03-28,143.0,401.0,1,0,Encourage Covid testing
+64,64,2020-03-29,124.0,376.0,1,0,Encourage Covid testing
+65,65,2020-03-30,90.0,469.0,1,0,Encourage Covid testing
+66,66,2020-03-31,131.0,451.0,1,0,Encourage Covid testing
+67,67,2020-04-01,124.0,465.0,1,0,Encourage Covid testing
+68,68,2020-04-02,92.0,443.0,1,0,Encourage Covid testing
+69,69,2020-04-03,106.0,464.0,1,0,Encourage Covid testing
+70,70,2020-04-04,73.0,375.0,1,0,Encourage Covid testing
+71,71,2020-04-05,63.0,349.0,1,0,Encourage Covid testing
+72,72,2020-04-06,40.0,473.0,1,0,Encourage Covid testing
+73,73,2020-04-07,44.0,434.0,1,0,Encourage Covid testing
+74,74,2020-04-08,44.0,450.0,1,0,Encourage Covid testing
+75,75,2020-04-09,41.0,441.0,1,0,Encourage Covid testing
+76,76,2020-04-10,30.0,354.0,1,0,Encourage Covid testing
+77,77,2020-04-11,18.0,346.0,1,0,Encourage Covid testing
+78,78,2020-04-12,9.0,325.0,1,0,Encourage Covid testing
+79,79,2020-04-13,7.0,351.0,1,0,Encourage Covid testing
+80,80,2020-04-14,21.0,453.0,1,0,Encourage Covid testing
+81,81,2020-04-15,22.0,458.0,1,0,Encourage Covid testing
+82,82,2020-04-16,22.0,469.0,1,0,Encourage Covid testing
+83,83,2020-04-17,15.0,486.0,1,0,Encourage Covid testing
+84,84,2020-04-18,17.0,416.0,1,0,Encourage Covid testing
+85,85,2020-04-19,7.0,397.0,1,0,Encourage Covid testing
+86,86,2020-04-20,2.0,482.0,1,0,Encourage Covid testing
+87,87,2020-04-21,6.0,475.0,1,0,Encourage Covid testing
+88,88,2020-04-22,3.0,455.0,1,0,Encourage Covid testing
+89,89,2020-04-23,8.0,469.0,1,0,Encourage Covid testing
+90,90,2020-04-24,14.0,479.0,1,0,Encourage Covid testing
+91,91,2020-04-25,3.0,424.0,1,0,Encourage Covid testing
+92,92,2020-04-26,1.0,412.0,1,0,Encourage Covid testing
+93,93,2020-04-27,5.0,495.0,1,0,Encourage Covid testing
+94,94,2020-04-28,10.0,495.0,1,0,Encourage Covid testing
+95,95,2020-04-29,3.0,500.0,1,0,Encourage Covid testing
+96,96,2020-04-30,15.0,493.0,1,0,Encourage Covid testing
+97,97,2020-05-01,2.0,504.0,1,0,Encourage Covid testing
+98,98,2020-05-02,2.0,450.0,1,0,Encourage Covid testing
+99,99,2020-05-03,1.0,449.0,1,0,Encourage Covid testing
+100,100,2020-05-04,4.0,514.0,1,0,Encourage Covid testing
+101,101,2020-05-05,5.0,530.0,1,0,Encourage Covid testing
+102,102,2020-05-06,3.0,525.0,1,0,Encourage Covid testing
+103,103,2020-05-07,2.0,521.0,1,0,Encourage Covid testing
+104,104,2020-05-08,4.0,514.0,1,0,Encourage Covid testing
+105,105,2020-05-09,1.0,446.0,1,0,Encourage Covid testing
+106,106,2020-05-10,1.0,414.0,1,0,Encourage Covid testing
+107,107,2020-05-11,0.0,519.0,1,0,Encourage Covid testing
+108,108,2020-05-12,5.0,517.0,1,0,Encourage Covid testing
+109,109,2020-05-13,4.0,525.0,1,0,Encourage Covid testing
+110,110,2020-05-14,3.0,525.0,1,0,Encourage Covid testing
+111,111,2020-05-15,2.0,506.0,1,0,Encourage Covid testing
+112,112,2020-05-16,0.0,463.0,1,0,Travel Restriction
+113,113,2020-05-17,1.0,435.0,1,0,Travel Restriction
+114,114,2020-05-18,2.0,519.0,1,0,Travel Restriction
+115,115,2020-05-19,4.0,522.0,1,0,Travel Restriction
+116,116,2020-05-20,1.0,519.0,1,0,Travel Restriction
+117,117,2020-05-21,3.0,528.0,1,0,Travel Restriction
+118,118,2020-05-22,0.0,497.0,1,0,Travel Restriction
+119,119,2020-05-23,1.0,417.0,1,0,Travel Restriction
+120,120,2020-05-24,1.0,405.0,1,0,Travel Restriction
+121,121,2020-05-25,2.0,507.0,1,0,Travel Restriction
+122,122,2020-05-26,0.0,508.0,1,0,Travel Restriction
+123,123,2020-05-27,1.0,512.0,1,0,Travel Restriction
+124,124,2020-05-28,2.0,521.0,1,0,Travel Restriction
+125,125,2020-05-29,1.0,508.0,1,0,Travel Restriction
+126,126,2020-05-30,2.0,434.0,1,0,Travel Restriction
+127,127,2020-05-31,5.0,436.0,1,0,Travel Restriction
+128,128,2020-06-01,4.0,528.0,1,0,Travel Restriction
+129,129,2020-06-02,1.0,515.0,1,0,Travel Restriction
+130,130,2020-06-03,2.0,504.0,1,0,Travel Restriction
+131,131,2020-06-04,3.0,514.0,1,0,Travel Restriction
+132,132,2020-06-05,0.0,506.0,1,0,Travel Restriction
+133,133,2020-06-06,1.0,440.0,1,0,Travel Restriction
+134,134,2020-06-07,3.0,444.0,1,0,Travel Restriction
+135,135,2020-06-08,1.0,436.0,1,0,Travel Restriction
+136,136,2020-06-09,3.0,531.0,1,0,Travel Restriction
+137,137,2020-06-10,0.0,535.0,1,0,Travel Restriction
+138,138,2020-06-11,3.0,518.0,1,0,Travel Restriction
+139,139,2020-06-12,3.0,515.0,1,0,Travel Restriction
+140,140,2020-06-13,9.0,458.0,1,0,Travel Restriction
+141,141,2020-06-14,6.0,445.0,1,0,Travel Restriction
+142,142,2020-06-15,0.0,532.0,1,0,Travel Restriction
+143,143,2020-06-16,0.0,533.0,1,0,Travel Restriction
+144,144,2020-06-17,2.0,530.0,1,0,Travel Restriction
+145,145,2020-06-18,7.0,533.0,1,0,Travel Restriction
+146,146,2020-06-19,1.0,526.0,1,0,Travel Restriction
+147,147,2020-06-20,6.0,458.0,1,0,Travel Restriction
+148,148,2020-06-21,1.0,441.0,1,0,Travel Restriction
+149,149,2020-06-22,1.0,546.0,1,0,Travel Restriction
+150,150,2020-06-23,10.0,545.0,1,0,Travel Restriction
+151,151,2020-06-24,4.0,545.0,1,0,Travel Restriction
+152,152,2020-06-25,6.0,538.0,1,0,Travel Restriction
+153,153,2020-06-26,5.0,531.0,1,0,Travel Restriction
+154,154,2020-06-27,10.0,470.0,1,0,Travel Restriction
+155,155,2020-06-28,3.0,440.0,1,0,Travel Restriction
+156,156,2020-06-29,6.0,541.0,1,0,Travel Restriction
+157,157,2020-06-30,11.0,537.0,1,0,Travel Restriction
+158,158,2020-07-01,6.0,534.0,1,0,Travel Restriction
+159,159,2020-07-02,5.0,542.0,1,0,Travel Restriction
+160,160,2020-07-03,8.0,525.0,1,0,Travel Restriction
+161,161,2020-07-04,12.0,460.0,1,0,Travel Restriction
+162,162,2020-07-05,8.0,461.0,1,0,Travel Restriction
+163,163,2020-07-06,13.0,539.0,1,0,Travel Restriction
+164,164,2020-07-07,6.0,542.0,1,0,Travel Restriction
+165,165,2020-07-08,13.0,543.0,1,0,Travel Restriction
+166,166,2020-07-09,9.0,538.0,1,0,Travel Restriction
+167,167,2020-07-10,8.0,544.0,1,0,Travel Restriction
+168,168,2020-07-11,2.0,484.0,1,0,Travel Restriction
+169,169,2020-07-12,15.0,482.0,1,0,Travel Restriction
+170,170,2020-07-13,17.0,561.0,1,0,Travel Restriction
+171,171,2020-07-14,10.0,551.0,1,0,Travel Restriction
+172,172,2020-07-15,9.0,558.0,1,0,Travel Restriction
+173,173,2020-07-16,9.0,552.0,1,0,Travel Restriction
+174,174,2020-07-17,13.0,553.0,1,0,Travel Restriction
+175,175,2020-07-18,17.0,503.0,1,0,Travel Restriction
+176,176,2020-07-19,20.0,477.0,1,0,Travel Restriction
+177,177,2020-07-20,14.0,578.0,1,0,Travel Restriction
+178,178,2020-07-21,14.0,560.0,1,0,Travel Restriction
+179,179,2020-07-22,16.0,559.0,1,0,Travel Restriction
+180,180,2020-07-23,7.0,563.0,1,0,Travel Restriction
+181,181,2020-07-24,18.0,554.0,1,0,Travel Restriction
+182,182,2020-07-25,18.0,497.0,1,0,Travel Restriction
+183,183,2020-07-26,9.0,482.0,1,0,Travel Restriction
+184,184,2020-07-27,15.0,568.0,1,0,Travel Restriction
+185,185,2020-07-28,22.0,555.0,1,0,Travel Restriction
+186,186,2020-07-29,15.0,563.0,1,0,Travel Restriction
+187,187,2020-07-30,22.0,558.0,1,0,Travel Restriction
+188,188,2020-07-31,15.0,557.0,1,0,Travel Restriction
+189,189,2020-08-01,14.0,505.0,1,0,Travel Restriction
+190,190,2020-08-02,11.0,486.0,1,0,Travel Restriction
+191,191,2020-08-03,13.0,567.0,1,0,Travel Restriction
+192,192,2020-08-04,9.0,562.0,1,0,Travel Restriction
+193,193,2020-08-05,13.0,559.0,1,0,Travel Restriction
+194,194,2020-08-06,11.0,556.0,1,0,Travel Restriction
+195,195,2020-08-07,8.0,561.0,1,0,Travel Restriction
+196,196,2020-08-08,14.0,481.0,1,0,Travel Restriction
+197,197,2020-08-09,13.0,475.0,1,0,Travel Restriction
+198,198,2020-08-10,22.0,556.0,1,0,Travel Restriction
+199,199,2020-08-11,15.0,553.0,1,0,Travel Restriction
+200,200,2020-08-12,10.0,555.0,1,0,Travel Restriction
+201,201,2020-08-13,14.0,550.0,1,0,Travel Restriction
+202,202,2020-08-14,7.0,551.0,1,0,Travel Restriction
+203,203,2020-08-15,6.0,486.0,1,0,Travel Restriction
+204,204,2020-08-16,5.0,488.0,1,0,Travel Restriction
+205,205,2020-08-17,3.0,568.0,1,0,Travel Restriction
+206,206,2020-08-18,8.0,573.0,1,0,Travel Restriction
+207,207,2020-08-19,2.0,574.0,1,0,Travel Restriction
+208,208,2020-08-20,5.0,575.0,1,0,Travel Restriction
+209,209,2020-08-21,7.0,573.0,1,0,Travel Restriction
+210,210,2020-08-22,2.0,483.0,1,0,Travel Restriction
+211,211,2020-08-23,3.0,485.0,1,0,Travel Restriction
+212,212,2020-08-24,4.0,579.0,1,0,Travel Restriction
+213,213,2020-08-25,6.0,569.0,1,0,Travel Restriction
+214,214,2020-08-26,12.0,559.0,1,0,Travel Restriction
+215,215,2020-08-27,15.0,571.0,1,0,Travel Restriction
+216,216,2020-08-28,10.0,553.0,1,0,Travel Restriction
+217,217,2020-08-29,7.0,479.0,1,0,Travel Restriction
+218,218,2020-08-30,11.0,474.0,1,0,Travel Restriction
+219,219,2020-08-31,12.0,553.0,1,0,Travel Restriction
+220,220,2020-09-01,15.0,558.0,1,0,Travel Restriction
+221,221,2020-09-02,10.0,553.0,1,0,Travel Restriction
+222,222,2020-09-03,7.0,544.0,1,0,Travel Restriction
+223,223,2020-09-04,7.0,554.0,1,0,Travel Restriction
+224,224,2020-09-05,8.0,474.0,1,0,Travel Restriction
+225,225,2020-09-06,4.0,459.0,1,0,Travel Restriction
+226,226,2020-09-07,11.0,561.0,1,0,Travel Restriction
+227,227,2020-09-08,5.0,545.0,1,0,Travel Restriction
+228,228,2020-09-09,10.0,551.0,1,0,Travel Restriction
+229,229,2020-09-10,8.0,540.0,1,0,Travel Restriction
+230,230,2020-09-11,8.0,526.0,1,0,Travel Restriction
+231,231,2020-09-12,6.0,456.0,1,0,Travel Restriction
+232,232,2020-09-13,7.0,460.0,1,0,Travel Restriction
+233,233,2020-09-14,7.0,557.0,1,0,Travel Restriction
+234,234,2020-09-15,5.0,550.0,1,0,Travel Restriction
+235,235,2020-09-16,7.0,539.0,1,0,Travel Restriction
+236,236,2020-09-17,3.0,518.0,1,0,Travel Restriction
+237,237,2020-09-18,4.0,523.0,1,0,Travel Restriction
+238,238,2020-09-19,1.0,460.0,1,0,Travel Restriction
+239,239,2020-09-20,5.0,444.0,1,0,Travel Restriction
+240,240,2020-09-21,1.0,553.0,1,0,Travel Restriction
+241,241,2020-09-22,6.0,532.0,1,0,Travel Restriction
+242,242,2020-09-23,3.0,518.0,1,0,Travel Restriction
+243,243,2020-09-24,2.0,522.0,1,0,Travel Restriction
+244,244,2020-09-25,1.0,508.0,1,0,Travel Restriction
+245,245,2020-09-26,0.0,447.0,1,0,Travel Restriction
+246,246,2020-09-27,0.0,440.0,1,0,Travel Restriction
+247,247,2020-09-28,5.0,537.0,1,0,Travel Restriction
+248,248,2020-09-29,2.0,520.0,1,0,Travel Restriction
+249,249,2020-09-30,4.0,505.0,1,0,Travel Restriction
+250,250,2020-10-01,3.0,505.0,1,0,Travel Restriction
+251,251,2020-10-02,0.0,491.0,1,0,Travel Restriction
+252,252,2020-10-03,3.0,454.0,1,0,Travel Restriction
+253,253,2020-10-04,2.0,430.0,1,0,Travel Restriction
+254,254,2020-10-05,9.0,448.0,1,0,Travel Restriction
+255,255,2020-10-06,3.0,540.0,1,0,Travel Restriction
+256,256,2020-10-07,15.0,523.0,1,0,Travel Restriction
+257,257,2020-10-08,6.0,520.0,1,0,Travel Restriction
+258,258,2020-10-09,4.0,514.0,1,0,Travel Restriction
+259,259,2020-10-10,7.0,458.0,1,0,Travel Restriction
+260,260,2020-10-11,5.0,439.0,1,0,Travel Restriction
+261,261,2020-10-12,15.0,532.0,1,0,Travel Restriction
+262,262,2020-10-13,12.0,514.0,1,0,Travel Restriction
+263,263,2020-10-14,10.0,535.0,1,0,Travel Restriction
+264,264,2020-10-15,3.0,516.0,1,0,Travel Restriction
+265,265,2020-10-16,7.0,525.0,1,0,Travel Restriction
+266,266,2020-10-17,6.0,448.0,1,0,Travel Restriction
+267,267,2020-10-18,6.0,446.0,1,0,Travel Restriction
+268,268,2020-10-19,10.0,533.0,1,0,Travel Restriction
+269,269,2020-10-20,4.0,515.0,1,0,Travel Restriction
+270,270,2020-10-21,9.0,518.0,1,0,Travel Restriction
+271,271,2020-10-22,3.0,530.0,1,0,Travel Restriction
+272,272,2020-10-23,6.0,529.0,1,0,Travel Restriction
+273,273,2020-10-24,7.0,454.0,1,0,Travel Restriction
+274,274,2020-10-25,3.0,435.0,1,0,Travel Restriction
+275,275,2020-10-26,15.0,530.0,1,0,Travel Restriction
+276,276,2020-10-27,5.0,523.0,1,0,Travel Restriction
+277,277,2020-10-28,4.0,521.0,1,0,Travel Restriction
+278,278,2020-10-29,7.0,518.0,1,0,Travel Restriction
+279,279,2020-10-30,4.0,509.0,1,0,Travel Restriction
+280,280,2020-10-31,5.0,446.0,1,0,Travel Restriction
+281,281,2020-11-01,5.0,445.0,1,0,Travel Restriction
+282,282,2020-11-02,4.0,544.0,1,0,Travel Restriction
+283,283,2020-11-03,7.0,523.0,1,0,Travel Restriction
+284,284,2020-11-04,3.0,518.0,1,0,Travel Restriction
+285,285,2020-11-05,10.0,503.0,1,0,Travel Restriction
+286,286,2020-11-06,5.0,509.0,1,0,Travel Restriction
+287,287,2020-11-07,4.0,456.0,1,0,Travel Restriction
+288,288,2020-11-08,7.0,433.0,1,0,Travel Restriction
+289,289,2020-11-09,5.0,532.0,1,0,Travel Restriction
+290,290,2020-11-10,2.0,530.0,1,0,Travel Restriction
+291,291,2020-11-11,5.0,523.0,1,0,Travel Restriction
+292,292,2020-11-12,2.0,513.0,1,0,Travel Restriction
+293,293,2020-11-13,6.0,513.0,1,0,Travel Restriction
+294,294,2020-11-14,8.0,454.0,1,0,Travel Restriction
+295,295,2020-11-15,2.0,438.0,1,0,Travel Restriction
+296,296,2020-11-16,4.0,521.0,1,0,Travel Restriction
+297,297,2020-11-17,6.0,521.0,1,0,Travel Restriction
+298,298,2020-11-18,7.0,524.0,1,0,Travel Restriction
+299,299,2020-11-19,3.0,518.0,1,0,Travel Restriction
+300,300,2020-11-20,10.0,505.0,1,0,Travel Restriction
+301,301,2020-11-21,9.0,423.0,1,0,Travel Restriction
+302,302,2020-11-22,5.0,438.0,1,0,Travel Restriction
+303,303,2020-11-23,7.0,514.0,1,0,Travel Restriction
+304,304,2020-11-24,2.0,510.0,1,0,Travel Restriction
+305,305,2020-11-25,0.0,505.0,1,0,Travel Restriction
+306,306,2020-11-26,5.0,497.0,1,0,Travel Restriction
+307,307,2020-11-27,8.0,491.0,1,0,Travel Restriction
+308,308,2020-11-28,4.0,421.0,1,0,Travel Restriction
+309,309,2020-11-29,7.0,417.0,1,0,Travel Restriction
+310,310,2020-11-30,8.0,514.0,1,0,Travel Restriction
+311,311,2020-12-01,6.0,486.0,1,0,Travel Restriction
+312,312,2020-12-02,8.0,502.0,1,0,Travel Restriction
+313,313,2020-12-03,4.0,497.0,1,0,Travel Restriction
+314,314,2020-12-04,2.0,487.0,1,0,Travel Restriction
+315,315,2020-12-05,5.0,431.0,1,0,Travel Restriction
+316,316,2020-12-06,7.0,420.0,1,0,Travel Restriction
+317,317,2020-12-07,4.0,512.0,1,0,Travel Restriction
+318,318,2020-12-08,2.0,490.0,1,0,Travel Restriction
+319,319,2020-12-09,9.0,486.0,1,0,Travel Restriction
+320,320,2020-12-10,6.0,491.0,1,0,Travel Restriction
+321,321,2020-12-11,3.0,485.0,1,0,Travel Restriction
+322,322,2020-12-12,3.0,429.0,1,0,Travel Restriction
+323,323,2020-12-13,5.0,415.0,1,0,Travel Restriction
+324,324,2020-12-14,7.0,500.0,1,0,Travel Restriction
+325,325,2020-12-15,3.0,488.0,1,0,Travel Restriction
+326,326,2020-12-16,9.0,478.0,1,0,Travel Restriction
+327,327,2020-12-17,25.0,490.0,1,0,Travel Restriction
+328,328,2020-12-18,28.0,518.0,1,0,Travel Restriction
+329,329,2020-12-19,32.0,501.0,1,0,Travel Restriction
+330,330,2020-12-20,28.0,508.0,1,0,Travel Restriction
+331,331,2020-12-21,12.0,565.0,1,0,Travel Restriction
+332,332,2020-12-22,13.0,555.0,1,0,Travel Restriction
+333,333,2020-12-23,21.0,540.0,1,0,Travel Restriction
+334,334,2020-12-24,12.0,509.0,1,0,Travel Restriction
+335,335,2020-12-25,11.0,416.0,1,0,Travel Restriction
+336,336,2020-12-26,13.0,483.0,1,0,Travel Restriction
+337,337,2020-12-27,10.0,486.0,1,0,Travel Restriction
+338,338,2020-12-28,9.0,503.0,1,0,Travel Restriction
+339,339,2020-12-29,30.0,526.0,1,0,Travel Restriction
+340,340,2020-12-30,9.0,539.0,1,0,Travel Restriction
+341,341,2020-12-31,11.0,519.0,1,0,Travel Restriction
+342,342,2021-01-01,17.0,492.0,1,0,Travel Restriction
+343,343,2021-01-02,7.0,515.0,1,0,Travel Restriction
+344,344,2021-01-03,11.0,510.0,1,0,Travel Restriction
+345,345,2021-01-04,4.0,569.0,1,0,Travel Restriction
+346,346,2021-01-05,4.0,548.0,1,0,Travel Restriction
+347,347,2021-01-06,12.0,558.0,1,0,Travel Restriction
+348,348,2021-01-07,5.0,551.0,1,0,Travel Restriction
+349,349,2021-01-08,11.0,544.0,1,0,Travel Restriction
+350,350,2021-01-09,7.0,533.0,1,0,Travel Restriction
+351,351,2021-01-10,12.0,479.0,1,0,Travel Restriction
+352,352,2021-01-11,11.0,547.0,1,0,Travel Restriction
+353,353,2021-01-12,5.0,537.0,1,0,Travel Restriction
+354,354,2021-01-13,2.0,527.0,1,0,Travel Restriction
+355,355,2021-01-14,2.0,518.0,1,0,Travel Restriction
+356,356,2021-01-15,14.0,519.0,1,0,Travel Restriction
+357,357,2021-01-16,14.0,468.0,1,0,Travel Restriction
+358,358,2021-01-17,2.0,455.0,1,0,Travel Restriction
+359,359,2021-01-18,1.0,531.0,1,0,Travel Restriction
+360,360,2021-01-19,4.0,525.0,1,0,Travel Restriction
+361,361,2021-01-20,5.0,516.0,1,0,Travel Restriction
+362,362,2021-01-21,0.0,515.0,1,0,Travel Restriction
+363,363,2021-01-22,1.0,506.0,1,0,Travel Restriction
+364,364,2021-01-23,5.0,440.0,1,0,Travel Restriction
+365,365,2021-01-24,1.0,437.0,1,0,Travel Restriction
+366,366,2021-01-25,3.0,513.0,1,0,Travel Restriction
+367,367,2021-01-26,1.0,436.0,1,0,Travel Restriction
+368,368,2021-01-27,4.0,515.0,1,0,Travel Restriction
+369,369,2021-01-28,4.0,492.0,1,0,Travel Restriction
+370,370,2021-01-29,3.0,504.0,1,0,Travel Restriction
+371,371,2021-01-30,2.0,448.0,1,0,Travel Restriction
+372,372,2021-01-31,4.0,432.0,1,0,Travel Restriction
+373,373,2021-02-01,2.0,523.0,1,0,Travel Restriction
+374,374,2021-02-02,2.0,499.0,1,0,Travel Restriction
+375,375,2021-02-03,3.0,492.0,1,0,Travel Restriction
+376,376,2021-02-04,0.0,508.0,1,0,Travel Restriction
+377,377,2021-02-05,4.0,494.0,1,0,Travel Restriction
+378,378,2021-02-06,0.0,429.0,1,0,Travel Restriction
+379,379,2021-02-07,5.0,433.0,1,0,Travel Restriction
+380,380,2021-02-08,4.0,516.0,1,0,Travel Restriction
+381,381,2021-02-09,1.0,521.0,1,0,Travel Restriction
+382,382,2021-02-10,2.0,511.0,1,0,Travel Restriction
+383,383,2021-02-11,2.0,512.0,1,0,Travel Restriction
+384,384,2021-02-12,2.0,495.0,1,0,Travel Restriction
+385,385,2021-02-13,2.0,478.0,1,0,Travel Restriction
+386,386,2021-02-14,0.0,471.0,1,0,Travel Restriction
+387,387,2021-02-15,2.0,545.0,1,0,Travel Restriction
+388,388,2021-02-16,3.0,540.0,1,0,Travel Restriction
+389,389,2021-02-17,1.0,530.0,1,0,Travel Restriction
+390,390,2021-02-18,2.0,523.0,1,0,Travel Restriction
+391,391,2021-02-19,1.0,519.0,1,0,Travel Restriction
+392,392,2021-02-20,3.0,453.0,1,0,Travel Restriction
+393,393,2021-02-21,1.0,464.0,1,0,Travel Restriction
+394,394,2021-02-22,4.0,538.0,1,0,Travel Restriction
+395,395,2021-02-23,4.0,525.0,1,0,Travel Restriction
+396,396,2021-02-24,5.0,523.0,1,0,Travel Restriction
+397,397,2021-02-25,4.0,510.0,1,0,Travel Restriction
+398,398,2021-02-26,4.0,505.0,1,0,Travel Restriction
+399,399,2021-02-27,4.0,453.0,1,0,Travel Restriction
+400,400,2021-02-28,6.0,458.0,1,0,Travel Restriction
+401,401,2021-03-01,1.0,533.0,1,0,Travel Restriction
+402,402,2021-03-02,5.0,518.0,1,0,Travel Restriction
+403,403,2021-03-03,6.0,525.0,1,0,Travel Restriction
+404,404,2021-03-04,9.0,515.0,1,0,Travel Restriction
+405,405,2021-03-05,4.0,500.0,1,0,Travel Restriction
+406,406,2021-03-06,1.0,437.0,1,0,Travel Restriction
+407,407,2021-03-07,1.0,436.0,1,0,Travel Restriction
+408,408,2021-03-08,5.0,532.0,1,0,Travel Restriction
+409,409,2021-03-09,6.0,510.0,1,0,Travel Restriction
+410,410,2021-03-10,7.0,511.0,1,0,Travel Restriction
+411,411,2021-03-11,6.0,508.0,1,0,Travel Restriction
+412,412,2021-03-12,0.0,490.0,1,0,Travel Restriction
+413,413,2021-03-13,5.0,445.0,1,0,Travel Restriction
+414,414,2021-03-14,3.0,429.0,1,0,Travel Restriction
+415,415,2021-03-15,1.0,520.0,1,0,Travel Restriction
+416,416,2021-03-16,6.0,502.0,1,0,Travel Restriction
+417,417,2021-03-17,8.0,509.0,1,0,Travel Restriction
+418,418,2021-03-18,1.0,500.0,1,0,Travel Restriction
+419,419,2021-03-19,2.0,494.0,1,0,Travel Restriction
+420,420,2021-03-20,5.0,422.0,1,0,Travel Restriction
+421,421,2021-03-21,4.0,415.0,1,0,Travel Restriction
+422,422,2021-03-22,2.0,510.0,1,0,Travel Restriction
+423,423,2021-03-23,4.0,490.0,1,0,Travel Restriction
+424,424,2021-03-24,3.0,493.0,1,0,Travel Restriction
+425,425,2021-03-25,2.0,488.0,1,0,Travel Restriction
+426,426,2021-03-26,3.0,488.0,1,0,Travel Restriction
+427,427,2021-03-27,0.0,427.0,1,0,Travel Restriction
+428,428,2021-03-28,4.0,432.0,1,0,Travel Restriction
+429,429,2021-03-29,4.0,536.0,1,0,Travel Restriction
+430,430,2021-03-30,5.0,532.0,1,0,Travel Restriction
+431,431,2021-03-31,2.0,529.0,1,0,Travel Restriction
+432,432,2021-04-01,0.0,506.0,1,0,Travel Restriction
+433,433,2021-04-02,3.0,432.0,1,0,Travel Restriction
+434,434,2021-04-03,1.0,416.0,1,0,Travel Restriction
+435,435,2021-04-04,4.0,433.0,1,0,Travel Restriction
+436,436,2021-04-05,9.0,450.0,1,0,Travel Restriction
+437,437,2021-04-06,5.0,518.0,1,0,Travel Restriction
+438,438,2021-04-07,1.0,510.0,1,0,Travel Restriction
+439,439,2021-04-08,3.0,492.0,1,0,Travel Restriction
+440,440,2021-04-09,5.0,480.0,1,0,Travel Restriction
+441,441,2021-04-10,7.0,429.0,1,0,Travel Restriction
+442,442,2021-04-11,6.0,414.0,1,0,Travel Restriction
+443,443,2021-04-12,4.0,519.0,1,0,Travel Restriction
+444,444,2021-04-13,4.0,503.0,1,0,Travel Restriction
+445,445,2021-04-14,12.0,513.0,1,0,Travel Restriction
+446,446,2021-04-15,1.0,492.0,1,0,Travel Restriction
+447,447,2021-04-16,9.0,489.0,1,0,Travel Restriction
+448,448,2021-04-17,4.0,420.0,1,0,Travel Restriction
+449,449,2021-04-18,9.0,418.0,1,0,Travel Restriction
+450,450,2021-04-19,4.0,509.0,1,0,Travel Restriction
+451,451,2021-04-20,7.0,497.0,1,0,Travel Restriction
+452,452,2021-04-21,15.0,492.0,1,0,Travel Restriction
+453,453,2021-04-22,5.0,481.0,1,0,Travel Restriction
+454,454,2021-04-23,1.0,474.0,1,0,Travel Restriction
+455,455,2021-04-24,4.0,434.0,1,0,Travel Restriction
+456,456,2021-04-25,7.0,417.0,1,0,Travel Restriction
+457,457,2021-04-26,16.0,527.0,1,0,Travel Restriction
+459,459,2021-04-28,17.0,506.0,1,0,Encourage Vaccination
+460,460,2021-04-29,2.0,495.0,1,0,Encourage Vaccination
+461,461,2021-04-30,4.0,495.0,1,0,Encourage Vaccination
+462,462,2021-05-01,2.0,419.0,1,0,Encourage Vaccination
+463,463,2021-05-02,8.0,429.0,1,0,Encourage Vaccination
+464,464,2021-05-03,9.0,517.0,1,0,Encourage Vaccination
+465,465,2021-05-04,7.0,496.0,1,0,Encourage Vaccination
+466,466,2021-05-05,9.0,507.0,1,0,Encourage Vaccination
+467,467,2021-05-06,4.0,512.0,1,0,Encourage Vaccination
+468,468,2021-05-07,5.0,506.0,1,0,Encourage Vaccination
+469,469,2021-05-08,7.0,439.0,1,0,Encourage Vaccination
+470,470,2021-05-09,6.0,446.0,1,0,Encourage Vaccination
+471,471,2021-05-10,4.0,539.0,1,0,Encourage Vaccination
+472,472,2021-05-11,2.0,524.0,1,0,Encourage Vaccination
+473,473,2021-05-12,5.0,523.0,1,0,Encourage Vaccination
+474,474,2021-05-13,3.0,517.0,1,0,Encourage Vaccination
+475,475,2021-05-14,2.0,508.0,1,0,Encourage Vaccination
+476,476,2021-05-15,2.0,438.0,1,0,Encourage Vaccination
+477,477,2021-05-16,2.0,446.0,1,0,Encourage Vaccination
+478,478,2021-05-17,3.0,531.0,1,0,Encourage Vaccination
+479,479,2021-05-18,2.0,527.0,1,0,Encourage Vaccination
+480,480,2021-05-19,2.0,524.0,1,0,Encourage Vaccination
+481,481,2021-05-20,0.0,517.0,1,0,Encourage Vaccination
+482,482,2021-05-21,3.0,506.0,1,0,Encourage Vaccination
+483,483,2021-05-22,0.0,435.0,1,0,Encourage Vaccination
+484,484,2021-05-23,2.0,440.0,1,0,Encourage Vaccination
+485,485,2021-05-24,2.0,524.0,1,0,Encourage Vaccination
+486,486,2021-05-25,2.0,532.0,1,0,Encourage Vaccination
+487,487,2021-05-26,0.0,532.0,1,0,Encourage Vaccination
+488,488,2021-05-27,4.0,531.0,1,0,Encourage Vaccination
+489,489,2021-05-28,2.0,532.0,1,0,Encourage Vaccination
+490,490,2021-05-29,3.0,478.0,1,0,Encourage Vaccination
+491,491,2021-05-30,2.0,474.0,1,0,Encourage Vaccination
+492,492,2021-05-31,0.0,552.0,1,0,Encourage Vaccination
+493,493,2021-06-01,1.0,542.0,1,0,Encourage Vaccination
+494,494,2021-06-02,2.0,545.0,1,0,Encourage Vaccination
+495,495,2021-06-03,0.0,546.0,1,0,Encourage Vaccination
+496,496,2021-06-04,4.0,522.0,1,0,Encourage Vaccination
+497,497,2021-06-05,3.0,458.0,1,0,Encourage Vaccination
+498,498,2021-06-06,4.0,452.0,1,0,Encourage Vaccination
+499,499,2021-06-07,8.0,550.0,1,0,Encourage Vaccination
+500,500,2021-06-08,1.0,540.0,1,0,Encourage Vaccination
+501,501,2021-06-09,2.0,521.0,1,0,Encourage Vaccination
+502,502,2021-06-10,2.0,562.0,1,0,Encourage Vaccination
+503,503,2021-06-11,0.0,550.0,1,0,Encourage Vaccination
+504,504,2021-06-12,1.0,496.0,1,0,Encourage Vaccination
+505,505,2021-06-13,8.0,474.0,1,0,Encourage Vaccination
+506,506,2021-06-14,4.0,482.0,1,0,Encourage Vaccination
+507,507,2021-06-15,1.0,557.0,1,0,Encourage Vaccination
+508,508,2021-06-16,4.0,545.0,1,0,Encourage Vaccination
+509,509,2021-06-17,1.0,541.0,1,0,Encourage Vaccination
+510,510,2021-06-18,7.0,535.0,1,0,Encourage Vaccination
+511,511,2021-06-19,7.0,484.0,1,0,Encourage Vaccination
+512,512,2021-06-20,3.0,485.0,1,0,Encourage Vaccination
+513,513,2021-06-21,5.0,556.0,1,0,Encourage Vaccination
+514,514,2021-06-22,19.0,543.0,1,0,Encourage Vaccination
+515,515,2021-06-23,12.0,549.0,1,0,Encourage Vaccination
+516,516,2021-06-24,22.0,556.0,1,0,Encourage Vaccination
+517,517,2021-06-25,28.0,564.0,1,0,Encourage Vaccination
+518,518,2021-06-26,28.0,536.0,1,1,Encourage Vaccination
+519,519,2021-06-27,23.0,547.0,1,1,Encourage Vaccination
+520,520,2021-06-28,16.0,590.0,1,1,Encourage Vaccination
+521,521,2021-06-29,31.0,587.0,1,1,Encourage Vaccination
+522,522,2021-06-30,31.0,572.0,1,1,Encourage Vaccination
+523,523,2021-07-01,31.0,557.0,1,1,Encourage Vaccination
+524,524,2021-07-02,42.0,569.0,1,1,Encourage Vaccination
+525,525,2021-07-03,24.0,528.0,1,1,Encourage Vaccination
+526,526,2021-07-04,31.0,505.0,1,1,Encourage Vaccination
+527,527,2021-07-05,17.0,573.0,1,1,Encourage Vaccination
+528,528,2021-07-06,35.0,553.0,1,1,Encourage Vaccination
+529,529,2021-07-07,37.0,552.0,1,1,Encourage Vaccination
+530,530,2021-07-08,46.0,553.0,1,1,Encourage Vaccination
+531,531,2021-07-09,52.0,562.0,1,1,Encourage Vaccination
+532,532,2021-07-10,107.0,514.0,1,1,Encourage Vaccination
+533,533,2021-07-11,121.0,513.0,1,1,Encourage Vaccination
+534,534,2021-07-12,73.0,581.0,1,1,Encourage Vaccination
+535,535,2021-07-13,91.0,571.0,1,1,Encourage Vaccination
+536,536,2021-07-14,76.0,569.0,1,1,Encourage Vaccination
+537,537,2021-07-15,102.0,560.0,1,1,Encourage Vaccination
+538,538,2021-07-16,114.0,570.0,1,1,Encourage Vaccination
+539,539,2021-07-17,99.0,541.0,1,1,Encourage Vaccination
+540,540,2021-07-18,111.0,528.0,1,1,Encourage Vaccination
+541,541,2021-07-19,66.0,583.0,1,1,Encourage Vaccination
+542,542,2021-07-20,107.0,586.0,1,1,Encourage Vaccination
+543,543,2021-07-21,143.0,588.0,1,1,Encourage Vaccination
+544,544,2021-07-22,144.0,573.0,1,1,Encourage Vaccination
+545,545,2021-07-23,150.0,573.0,1,1,Encourage Vaccination
+546,546,2021-07-24,139.0,551.0,1,1,Encourage Vaccination
+547,547,2021-07-25,176.0,538.0,1,1,Encourage Vaccination
+548,548,2021-07-26,143.0,589.0,1,1,Encourage Vaccination
+549,549,2021-07-27,158.0,579.0,1,1,Encourage Vaccination
+550,550,2021-07-28,254.0,577.0,1,1,Encourage Vaccination
+551,551,2021-07-29,182.0,573.0,1,1,Encourage Vaccination
+552,552,2021-07-30,197.0,574.0,1,1,Encourage Vaccination
+553,553,2021-07-31,241.0,543.0,1,1,Encourage Vaccination
+554,554,2021-08-01,194.0,550.0,1,1,Encourage Vaccination
+555,555,2021-08-02,208.0,591.0,1,1,Encourage Vaccination
+556,556,2021-08-03,236.0,587.0,1,1,Encourage Vaccination
+557,557,2021-08-04,248.0,572.0,1,1,Encourage Vaccination
+558,558,2021-08-05,320.0,582.0,1,1,Encourage Vaccination
+559,559,2021-08-06,302.0,589.0,1,1,Encourage Vaccination
+560,560,2021-08-07,252.0,575.0,1,1,Encourage Vaccination
+561,561,2021-08-08,260.0,567.0,1,1,Encourage Vaccination
+562,562,2021-08-09,367.0,599.0,1,1,Encourage Vaccination
+563,563,2021-08-10,339.0,586.0,1,1,Encourage Vaccination
+564,564,2021-08-11,371.0,603.0,1,1,Encourage Vaccination
+565,565,2021-08-12,401.0,603.0,1,1,Encourage Vaccination
+566,566,2021-08-13,454.0,604.0,1,1,Encourage Vaccination
+567,567,2021-08-14,325.0,588.0,1,1,Encourage Vaccination
+568,568,2021-08-15,505.0,582.0,1,1,Encourage Vaccination
+569,569,2021-08-16,578.0,604.0,1,1,Encourage Vaccination
+570,570,2021-08-17,548.0,603.0,1,1,Encourage Vaccination
+571,571,2021-08-18,637.0,605.0,1,1,Encourage Vaccination
+572,572,2021-08-19,761.0,594.0,1,1,Encourage Vaccination
+573,573,2021-08-20,770.0,598.0,1,1,Encourage Vaccination
+574,574,2021-08-21,813.0,584.0,1,1,Encourage Vaccination
+575,575,2021-08-22,743.0,583.0,1,1,Encourage Vaccination
+576,576,2021-08-23,828.0,608.0,1,1,Encourage Vaccination
+577,577,2021-08-24,912.0,597.0,1,1,Encourage Vaccination
+578,578,2021-08-25,964.0,600.0,1,1,Encourage Vaccination
+579,579,2021-08-26,945.0,595.0,1,1,Encourage Vaccination
+580,580,2021-08-27,1128.0,601.0,1,1,Encourage Vaccination
+581,581,2021-08-28,1109.0,569.0,1,1,Encourage Vaccination
+582,582,2021-08-29,1202.0,580.0,1,1,Encourage Vaccination
+583,583,2021-08-30,1082.0,600.0,1,1,Encourage Vaccination
+584,584,2021-08-31,1209.0,604.0,1,1,Encourage Vaccination
+585,585,2021-09-01,1330.0,600.0,1,1,Encourage Vaccination
+586,586,2021-09-02,1367.0,598.0,1,1,Encourage Vaccination
+587,587,2021-09-03,1527.0,596.0,1,1,Encourage Vaccination
+588,588,2021-09-04,1218.0,571.0,1,1,Encourage Vaccination
+589,589,2021-09-05,1183.0,576.0,1,1,Encourage Vaccination
+590,590,2021-09-06,1276.0,602.0,1,1,Encourage Vaccination
+591,591,2021-09-07,1403.0,608.0,1,1,Encourage Vaccination
+592,592,2021-09-08,1433.0,593.0,1,1,Encourage Vaccination
+593,593,2021-09-09,1523.0,600.0,1,1,Encourage Vaccination
+594,594,2021-09-10,1458.0,603.0,1,1,Encourage Vaccination
+595,595,2021-09-11,1259.0,577.0,1,1,Encourage Vaccination
+596,596,2021-09-12,1170.0,582.0,1,1,Encourage Vaccination
+597,597,2021-09-13,1247.0,597.0,1,1,Encourage Vaccination
+598,598,2021-09-14,1196.0,595.0,1,1,Encourage Vaccination
+599,599,2021-09-15,1321.0,591.0,1,1,Encourage Vaccination
+600,600,2021-09-16,1264.0,592.0,1,1,Encourage Vaccination
+601,601,2021-09-17,1288.0,603.0,1,1,Encourage Vaccination
+602,602,2021-09-18,1077.0,592.0,1,1,Encourage Vaccination
+603,603,2021-09-19,908.0,567.0,1,1,Encourage Vaccination
+604,604,2021-09-20,1043.0,600.0,1,1,Encourage Vaccination
+605,605,2021-09-21,1124.0,596.0,1,1,Encourage Vaccination
+606,606,2021-09-22,1055.0,585.0,1,1,Encourage Vaccination
+607,607,2021-09-23,989.0,601.0,1,1,Encourage Vaccination
+608,608,2021-09-24,1035.0,587.0,1,1,Encourage Vaccination
+609,609,2021-09-25,915.0,575.0,1,1,Encourage Vaccination
+610,610,2021-09-26,805.0,573.0,1,1,Encourage Vaccination
+611,611,2021-09-27,835.0,599.0,1,1,Encourage Vaccination
+612,612,2021-09-28,906.0,591.0,1,1,Encourage Vaccination
+613,613,2021-09-29,965.0,590.0,1,1,Encourage Vaccination
+614,614,2021-09-30,842.0,592.0,1,1,Encourage Vaccination
+615,615,2021-10-01,829.0,598.0,1,1,Encourage Vaccination
+616,616,2021-10-02,683.0,584.0,1,1,Encourage Vaccination
+617,617,2021-10-03,627.0,571.0,1,1,Encourage Vaccination
+618,618,2021-10-04,592.0,580.0,1,1,Encourage Vaccination
+619,619,2021-10-05,543.0,597.0,1,1,Encourage Vaccination
+620,620,2021-10-06,630.0,592.0,1,1,Encourage Vaccination
+621,621,2021-10-07,671.0,594.0,1,1,Encourage Vaccination
+622,622,2021-10-08,518.0,599.0,1,1,Encourage Vaccination
+623,623,2021-10-09,503.0,576.0,1,1,Encourage Vaccination
+624,624,2021-10-10,442.0,568.0,1,1,Encourage Vaccination
+625,625,2021-10-11,372.0,592.0,1,1,Encourage Vaccination
+626,626,2021-10-12,436.0,589.0,1,1,Encourage Vaccination
+627,627,2021-10-13,401.0,594.0,1,1,Encourage Vaccination
+628,628,2021-10-14,412.0,593.0,1,1,Encourage Vaccination
+629,629,2021-10-15,333.0,598.0,1,1,Encourage Vaccination
+630,630,2021-10-16,299.0,568.0,1,1,Encourage Vaccination
+631,631,2021-10-17,287.0,547.0,1,1,Encourage Vaccination
